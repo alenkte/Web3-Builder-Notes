@@ -42,6 +42,7 @@ Python
 
 Contact
 
+
 Open to learning, discussion, and small collaborations.
 
 This repository will be continuously updated as I grow as a Web3 builder.
