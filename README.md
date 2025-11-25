@@ -40,7 +40,7 @@
 
 **Python**
 
-**Contact**
+Contact
 
 **Open to learning, discussion, and small collaborations.**
 
